@@ -1,0 +1,4 @@
+mars stats
+distance: 1.524
+diameter: 6794
+albedo: 0.15
